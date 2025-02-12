@@ -60,9 +60,5 @@ Wallet Watch
 │── README.md  (Project documentation)
 ```
 
-## Contributing
-Contributions are welcome. Fork the repository, make improvements, and submit a pull request. If you encounter any issues, feel free to open an issue in the repository.
 
-## License
-This project is open-source under the [MIT License](LICENSE).
 
